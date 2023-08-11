@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Los Platos de Sara</title>
+    <link>https://losplatosdesara.com/</link>
+    <description>Recent content on Los Platos de Sara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 17:42:26 -0500</lastBuildDate><atom:link href="https://losplatosdesara.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Receipt</title>
+      <link>https://losplatosdesara.com/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Aug 2023 17:42:26 -0500</pubDate>
+      
+      <guid>https://losplatosdesara.com/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.</description>
+    </item>
+    
+  </channel>
+</rss>
