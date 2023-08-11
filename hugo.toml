@@ -1,0 +1,4 @@
+baseURL = 'https://losplatosdesara.com/'
+languageCode = 'en-us'
+title = 'Los Platos de Sara'
+theme = 'ananke'
